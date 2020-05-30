@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include <string.h>
 
+// TODO : cosmetic changes, maybe rename some of the stuff here, try different ways of implementing some of the functions
 
 #define LSH_TOK_BUFSIZE 64
 #define LSH_TOK_DELIM " \t\r\n\a"
