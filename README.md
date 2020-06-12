@@ -6,5 +6,4 @@
 In order to run it you need to:
 
 **1.** Compile the source code
-
 **2.** Run it in your terminal
