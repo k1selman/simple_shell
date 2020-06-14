@@ -3,7 +3,7 @@
 
 **Idea:** Create a simple shell with basic functionality to understand how it works.
 
-In order to run it you need to:
+**In order to run it one will have to:**
 
 **1.** Compile the source code
 
